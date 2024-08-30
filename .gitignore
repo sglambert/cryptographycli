@@ -1,0 +1,39 @@
+.env
+
+# .NET Core / .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.csproj.user
+*.suo
+*.user
+*.vs/
+.vscode/
+# Rider
+.idea/
+# NuGet Packages
+*.nupkg
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+# Local History for Visual Studio Code
+.history/
+# User-specific files
+*.swp
+*.swo
+# Logs
+*.log
+# Build results
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+# Misc
+*.DS_Store
+*.goutputstream-*
